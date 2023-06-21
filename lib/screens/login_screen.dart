@@ -18,7 +18,7 @@ class LoginPage extends StatelessWidget {
             CircleAvatar(
               radius: 50, // Dairenin yarıçapı
               backgroundImage: AssetImage(
-                  'assets/images/profile.png'), // Resim yolunu belirtin
+                  'assets/images/kalpp.png'), // Resim yolunu belirtin
             ),
             SizedBox(
                 height:

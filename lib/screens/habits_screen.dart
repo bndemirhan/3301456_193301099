@@ -11,7 +11,7 @@ class HabitDetailPage extends StatelessWidget {
     return Scaffold(
       appBar: AppBar(title: Text(habitName)),
       body: Center(
-        child: Text('Detay sayfası for $habitName'),
+        child: Text('Detay sayfası  for $habitName'),
       ),
     );
   }
