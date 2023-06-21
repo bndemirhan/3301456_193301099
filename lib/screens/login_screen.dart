@@ -49,7 +49,7 @@ class LoginPage extends StatelessWidget {
                   MaterialPageRoute(builder: (context) => HomePage()),
                 );
               },
-              child: Text(' Giriş '),
+              child: Text('Giriş'),
             ),
           ],
         ),
